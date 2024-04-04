@@ -1,0 +1,12 @@
+The system should have an user with the Office manager role.
+A dentist can apply to register to the system by providing their details.
+The office manager should be able to enroll patients to the system.
+A patient should be able to submit an online form.
+The office manager should be able to book an appointment for a patient.
+The system should send an email to the patient after booking is confirmed.
+A dentist should be able to see his/her appointment list.
+A patient should be able to login to the system.
+A patient should be able to see his/her appointment details.
+A patient should be able to manage their appointments.
+The system should not allow a dentist to have more than 5 appointments a week.
+The patient should not allow an appointment for a patient who has unpaid bills.
